@@ -1,0 +1,164 @@
+body{
+background-color: #d4f8e8;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+letter-spacing: -0.6px;
+word-spacing: -0.2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+width: 30rem;
+
+text-transform: none;
+}
+.top-margin{
+  background: #49DEEB;
+  background: -moz-linear-gradient(top, #49DEEB 0%, #35A2AB 32%, #194B4F 100%);
+  background: -webkit-linear-gradient(top, #49DEEB 0%, #35A2AB 32%, #194B4F 100%);
+  background: linear-gradient(to bottom, #49DEEB 0%, #35A2AB 32%, #194B4F 100%);
+  padding-top: 10rem;
+  margin: -2rem;
+  width: 87rem;
+}
+
+.jobs{
+  position: relative;
+  height: 2.5rem;
+  width: 80rem;
+  padding-top: 4rem;
+  padding-bottom: 6rem;
+  top: 1.3rem;
+  background-color: white;
+ margin-top: 0.7rem;
+ padding-left: 4.7rem;
+  }
+.company{
+  position: relative;
+  color: #005082;
+  bottom: 150px;
+  left: 13.8%;
+  width: 50rem;
+}
+.New{
+  background-color: #005082;
+  color: white;
+  width: 3rem;
+  height: 1.2rem;
+  border-radius: 2rem;
+  padding: 0.2rem;
+  text-align: center;
+  bottom: 12.1rem;
+  left: 16.3rem;
+  position: relative;
+}
+.featured{
+  background-color: #323232;
+  color: white;
+  width: 5rem;
+  height: 1.2rem;
+  border-radius: 1rem;
+  padding: 0.2rem;
+  text-align: center;
+  bottom: 14.8rem;
+  left: 20rem;
+  position: relative;
+}
+.photo{
+  position: relative;
+  height: 7rem;
+  bottom: 1.4rem;
+}
+.job-title{
+  position: relative;
+  bottom: 15.25rem;
+  left: 9.25rem;
+  width: 60rem;
+  color: #323232;
+  padding-left: 2.3%;
+}
+.arrival-time{
+  position: relative;
+  bottom: 15.7rem;
+  left: 170px;
+  color: #979797;
+  width: 50rem;
+}
+.job-timing{
+  position: relative;
+  bottom: 18.15rem;
+  left: 15.5rem;
+  color: #979797;
+  width: 50rem;
+}
+.location{
+  position: relative;
+  bottom: 20.6rem;
+  left: 21.5rem;
+  color: #979797;
+  width: 50rem;
+}
+.skill1{
+  position: relative;
+  bottom: 26.12rem;
+  left: 48.2rem;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  color: #005082;
+  background-color: lightgray;
+  width: 4.3em;
+  height: 1.4rem;
+border-radius: 0.4rem;
+text-align: center;
+}
+.skill2{
+  position: relative;
+  bottom: 29.4rem;
+  left: 53.7rem;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  color: #005082;
+  background-color: lightgray;
+  width: 4.3em;
+  height: 1.4rem;
+border-radius: 0.4rem;
+text-align: center;
+}
+.skill3{
+  position: relative;
+  bottom: 32.6rem;
+  left: 59.2rem;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  color: #005082;
+  background-color: lightgray;
+  width: 4.3em;
+  height: 1.4rem;
+border-radius: 0.4rem;
+text-align: center;
+}
+.skill4{
+  position: relative;
+  bottom: 35.85rem;
+  left: 64.6rem;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  color: #005082;
+  background-color: lightgray;
+  width: 4.3em;
+  height: 1.4rem;
+border-radius: 0.4rem;
+text-align: center;
+}
+.skill5{
+  position: relative;
+  bottom: 39.07rem;
+  left: 70rem;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  color: #005082;
+  background-color: lightgray;
+  width: 4.9em;
+  height: 1.4rem;
+border-radius: 0.4rem;
+text-align: center;
+}
